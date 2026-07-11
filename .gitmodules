@@ -5,6 +5,9 @@
 [submodule "jpmap"]
 	path = jpmap
 	url = https://github.com/yhoriuchi/jpmap
+[submodule "jpmapdata"]
+	path = jpmapdata
+	url = https://github.com/yhoriuchi/jpmapdata
 [submodule "projoint"]
 	path = projoint
 	url = https://github.com/yhoriuchi/projoint
